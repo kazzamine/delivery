@@ -139,7 +139,7 @@ function checkUser($un, $pwd, $city)
         // echo 'Iam here.......';
     } else {
         $dbHost = 'localhost'; //'139.59.71.44';
-        $dbUser = 'admin'; //'admin';
+        $dbUser = 'root'; //'admin';
         $dbPass = ''; //'f056535ccc522c61c7b3f1924605d246faa0611d39cbf352';
         $dbName = 'courier_db';
 

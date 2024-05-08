@@ -3,7 +3,7 @@
 
 // database connection config
 $dbHost = 'localhost';
-$dbUser = 'admin'; 
+$dbUser = 'root'; 
 $dbPass = '';
 $dbName = 'courier_db';
 
